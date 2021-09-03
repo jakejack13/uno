@@ -1,0 +1,13 @@
+#require "ounit2";;
+#require "yojson";;
+#require "ANSITerminal";;
+#directory "_build";;
+#load "card.cmo";;
+#load "deck.cmo";;
+#load "hand.cmo";;
+#load "command.cmo";;
+#load "solitaire_game.cmo";;
+#load "solitaire_state.cmo";;
+#load "uno_game.cmo";;
+#load "uno_state.cmo";;
+#load "files.cmo";;

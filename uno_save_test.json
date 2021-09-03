@@ -1,0 +1,40 @@
+{
+	"Game": "Uno",
+	"Deck": [
+		{
+			"color": "Red",
+			"indicator": "Six"
+		} ],
+	"Player_zero": [
+		{
+			"color": "Blue",
+			"indicator": "Seven"
+		} ],
+	"Player_one": [
+		{
+			"color": "Green",
+			"indicator": "Three"
+		} ],
+	"Player_two": [
+		{
+			"color": "Red",
+			"indicator": "Five"
+		} ],
+	"Player_three": [
+		{
+			"color": "Wild",
+			"indicator": "ChooseColor"
+		} ],
+	"Discard_pile": [
+		{
+			"color": "Green",
+			"indicator": "Skip"
+		} ],
+	"Current_Player": "5",
+
+	"Direction": "forward",
+
+	"Color": "Red",
+
+	"Ai_List": ["true","true","false","false","true" ]
+}

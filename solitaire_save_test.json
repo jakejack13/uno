@@ -1,0 +1,19 @@
+{
+	"Game": "Solitaire",
+	"Deck": [
+		{
+			"color": "Red",
+			"indicator": "Five"
+		} ],
+	"Player_cards": [
+		{
+			"color": "Green",
+			"indicator": "Three"
+		} ],
+	"Dealer_cards": [
+		{
+			"color": "Blue",
+			"indicator": "Two"
+		} ],
+	"Turn_count": "6"
+}
